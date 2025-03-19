@@ -8,6 +8,14 @@ export default defineNuxtConfig({
     '@nuxtjs/color-mode',
     '@nuxt/image'],
 
+  ssr: true,
+  nitro: {
+    prerender: {
+      crawlLinks: true,
+      // routes: ["/sitemap.xml", "/robots.txt"],
+    },
+  },
+
   css: ['assets/css/main.css'],
   colorMode: { classSuffix: '' },
 

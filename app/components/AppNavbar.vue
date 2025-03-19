@@ -5,6 +5,16 @@ const { data: navigation } = await useAsyncData('navigation', () =>
   queryCollectionNavigation('content')
 );
 
+function extractChildren(n: ContentNavigationItem) {
+  return n.children!.map((child: ContentNavigationItem) => child.path);
+}
+
+function getNavigatablePaths() {
+  return navigation.value?.flatMap(n => n.children ? extractChildren(n) : n.path) ?? [];
+}
+
+prerenderRoutes(getNavigatablePaths());
+
 const appConfig = useAppConfig();
 
 onMounted(() => {

@@ -1,10 +1,10 @@
 ---
 navigation:
-  title: Tokio Tag 2
+  title: Osaka Tag 2
 layout: full-width
 ---
 
-:ParallaxHero{src="/images/sample1/pexels-dsd-143941-1822605.jpg" title="Tag 2 in Tokio" }
+:ParallaxHero{src="/images/sample1/pexels-dsd-143941-1822605.jpg" title="Tag 2 in Osaka" }
 
 
 ::Prose
