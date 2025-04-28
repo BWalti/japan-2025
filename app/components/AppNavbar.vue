@@ -64,7 +64,7 @@ const isChildActive = (children: ContentNavigationItem[]) => {
         <!-- Check if the item has children (page is false) -->
         <template v-if="link.children">
           <button
-              class="hover:underline focus:outline-none"
+              class="hover:underline focus:outline-none cursor-pointer"
               :class="{'font-bold': isChildActive(link.children)}"
               @mouseenter="showDropdown(link.path)"
               @mouseleave="setPendingClose(link.path)"

@@ -9,7 +9,7 @@
           <NuxtImg
               :src="image.src"
               :alt="image.alt"
-              class="max-w-3xl mx-auto h-auto object-cover"
+              class="max-w-3xl mx-auto h-auto object-cover cursor-pointer"
               @click="openLightbox(image)"/>
 
           <span class="text-center">{{ image.alt }}</span>
