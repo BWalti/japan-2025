@@ -9,6 +9,12 @@ export default defineNuxtConfig({
     '@nuxt/image',
     'nuxt-maplibre'],
 
+  runtimeConfig: {
+    public: {
+      weatherApiKey: 'f0aac73bbe63716305955fcb468aac77', // hier leer lassen, füllst du über .env
+    }
+  },
+
   ssr: true,
   nitro: {
     prerender: {
