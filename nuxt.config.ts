@@ -2,11 +2,12 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineNuxtConfig({
   modules: [
-    '@nuxt/content',
+      '@nuxt/content',
     '@nuxt/icon',
     '@nuxt/eslint',
     '@nuxtjs/color-mode',
-    '@nuxt/image'],
+    '@nuxt/image',
+    'nuxt-maplibre'],
 
   ssr: true,
   nitro: {
