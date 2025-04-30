@@ -6,10 +6,17 @@
           @click="open = true"
       >
         <img :src="currentWeatherIconUrl" alt="Weather Icon" class="w-12 h-12">
-        <div>
-          <h2 class="text-xl font-bold text-gray-800 dark:text-gray-100">{{ location }}</h2>
-          <p class="text-lg text-gray-700 dark:text-gray-300">{{ currentWeatherData.temp }}°C -
-            {{ currentWeatherData.description }}</p>
+
+        <div class="flex-col text-gray-700 dark:text-gray-300">
+          <h2 class="font-bold">
+            {{ location }}
+          </h2>
+          <p class="">
+            {{ currentWeatherData.temp }}°C
+          </p>
+          <p class="text-sm text-gray-500 dark:text-gray-400">
+            {{ currentWeatherData.description }}
+          </p>
         </div>
       </div>
 
