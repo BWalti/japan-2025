@@ -48,7 +48,6 @@
           </MglPopup>
         </MglMarker>
 
-
         <MglFullscreenControl />
         <MglNavigationControl />
         <MglScaleControl />

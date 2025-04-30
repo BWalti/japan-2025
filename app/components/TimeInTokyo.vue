@@ -10,7 +10,7 @@
 <script setup lang="ts">
 const time = ref('')
 
-let interval
+let interval : NodeJS.Timeout;
 
 const updateTime = () => {
   const formatter = new Intl.DateTimeFormat('de-CH', {
