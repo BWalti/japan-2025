@@ -8,29 +8,7 @@
 </template>
 
 <script setup lang="ts">
-const time = ref('')
-
-let interval : NodeJS.Timeout;
-
-const updateTime = () => {
-  const formatter = new Intl.DateTimeFormat('de-CH', {
-    timeZone: 'Asia/Tokyo',
-    hour: '2-digit',
-    minute: '2-digit',
-    second: '2-digit',
-    hour12: false,
-  })
-  time.value = formatter.format(new Date())
-}
-
-onMounted(() => {
-  updateTime()
-  interval = setInterval(updateTime, 1000)
-})
-
-onUnmounted(() => {
-  clearInterval(interval)
-})
+const { time } = useTimezoneTime('Asia/Tokyo');
 </script>
 
 <style scoped>
