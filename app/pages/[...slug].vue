@@ -8,7 +8,10 @@ import type { LayoutKey } from '#build/types/layouts'
 const route = useRoute()
 
 const { data: page } = await useAsyncData(`page-${route.params.slug}`, () => {
-  return queryCollection('content').path(route.path).first()
+  return queryCollection('content')
+      .where('published', '=', true)
+      .path(route.path)
+      .first()
 })
 
 if (!page.value) {

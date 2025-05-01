@@ -11,6 +11,8 @@ export default defineContentConfig({
       source: '**',
       schema: z.object({
         layout: z.string(),
+        date: z.date(),
+        published: z.boolean()
       }),
     }),
   },

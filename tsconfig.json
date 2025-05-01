@@ -1,5 +1,10 @@
 {
   // https://v3.nuxtjs.org/concepts/typescript
   "extends": "./.nuxt/tsconfig.json",
-  "includes": [ "types/*.d.ts" ]
+  "includes": [ "types/*.d.ts" ],
+  "compilerOptions": {
+    "paths": {
+      "#content/*": ["./.nuxt/content/*"]
+    }
+  }
 }

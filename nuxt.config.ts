@@ -12,6 +12,7 @@ export default defineNuxtConfig({
   runtimeConfig: {
     public: {
       weatherApiKey: 'f0aac73bbe63716305955fcb468aac77', // hier leer lassen, füllst du über .env
+      appUrl: 'https://jp25.bwalti.net'
     }
   },
 

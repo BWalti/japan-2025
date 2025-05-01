@@ -6,6 +6,7 @@ import TimeInTokyo from "~/components/TimeInTokyo.vue";
 
 const {data: navigation} = await useAsyncData('navigation', () =>
     queryCollectionNavigation('content')
+        .where('published', '=', true)
 );
 
 function extractChildren(n: ContentNavigationItem) {
@@ -139,6 +140,7 @@ function closeMobileMenu() {
         <Icon class="size-5" name="i-simple-icons-bluesky"/>
       </a>
       <ColorModeSwitch class="dark:text-gray-100 hover:text-gray-700 dark:hover:text-gray-300"/>
+      <RssFeed />
     </div>
   </div>
 
