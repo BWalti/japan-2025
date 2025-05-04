@@ -8,10 +8,10 @@
         <NuxtImg
             :alt="image.alt"
             :src="image.src"
-            class="max-w-3xl mx-auto h-auto object-cover cursor-pointer"
+            class="max-w-full md:max-w-3xl mx-auto h-auto object-cover cursor-pointer"
             @click="openLightbox(image)"/>
 
-        <span class="text-center">{{ image.alt }}</span>
+        <span class="text-center max-w-full mx-2 wrap-break-word">{{ image.alt }}</span>
       </div>
     </div>
 
@@ -20,6 +20,7 @@
         @click="closeLightbox">
       <div class="relative">
         <NuxtImg :alt="currentImage.alt" :src="currentImage.src" class="max-w-full max-h-screen"/>
+        <span class="max-w-full mx-2 wrap-break-word">{{ currentImage.alt }}</span>
       </div>
 
       <button
