@@ -114,7 +114,7 @@ entdeckten noch einen freien Platz im Occitane Café:
 
 :::Gallery
 ---
-images: [{src: '/images/05-05/1746454539074.jpg', alt: 'Zitrone/Zitronen-Gras und Lavendel-Mocktails (und ein Melonen-Parfait-Becher im Hintergrund)'}]
+images: [{src: '/images/05-05/IMG_20250505_175312.jpg', alt: 'HoloLive'},{src: '/images/05-05/IMG_20250505_213910.jpg', alt: 'eine grimmige Werbeanzeige'},{src: '/images/05-05/IMG_20250505_213655.jpg', alt: 'Shibuya - hell erleuchtet'},{src: '/images/05-05/1746454539074.jpg', alt: 'Zitrone/Zitronen-Gras und Lavendel-Mocktails (und ein Melonen-Parfait-Becher im Hintergrund)'}]
 ---
 :::
 
