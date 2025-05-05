@@ -126,3 +126,9 @@ fix fertig (einmal mehr völlige Reizüberflutung) und deutlich reicher an Souve
 
 Und somit machten wir uns wieder auf den Heimweg...
 ::
+
+:::Gallery
+---
+images: [{src: '/images/05-05/PANO_20250505_114307.jpg', alt: 'weitere Alieneier (?)'},{src: '/images/05-05/PANO_20250505_130850.jpg', alt: 'Klettersteig im TeamLab'},{src: '/images/05-05/PANO_20250505_135019.jpg', alt: 'fliegende Orchideen'}]
+---
+:::
