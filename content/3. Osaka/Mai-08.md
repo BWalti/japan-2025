@@ -6,7 +6,7 @@ date: 2025-05-08
 published: true
 ---
 
-:ParallaxHero{src="/images/05-08/PANO_20250508_140920.jpg" title="Tag 6: Universal Studio Osaka" }
+:ParallaxHero{src="/images/05-08/PANO_20250508_185937.jpg" title="Tag 6: Universal Studio Osaka" }
 
 ::Prose
 # 8. Mai 2025
@@ -47,6 +47,6 @@ Etwas Statistik zum Schluss:
 
 :::Gallery
 ---
-images: [{src: '/images/05-08/IMG_20250508_090402.jpg', alt: 'Jurassic Park Safari Jeep'},{src: '/images/05-08/IMG_20250508_094344.jpg', alt: 'Minions zum Verspeisen 🤗'},{src: '/images/05-08/IMG_20250508_102915.jpg', alt: 'Schokoladen Churro mit Tiramisu Creme 🤤🤤🤤'},{src: '/images/05-08/IMG_20250508_103700.jpg', alt: 'Cars V8 Kaffee?'},{src: '/images/05-08/IMG_20250508_104205.jpg', alt: 'Hogwarts'},{src: '/images/05-08/IMG_20250508_104347.jpg', alt: ''},{src: '/images/05-08/IMG_20250508_104812.jpg', alt: ''},{src: '/images/05-08/IMG_20250508_105805.jpg', alt: 'Hogwarts Castle - auf der Bahn da drin wurde uns richtig übel (Motion Sickness 🤢)'},{src: '/images/05-08/IMG_20250508_130114.jpg', alt: 'Waterworld Show'},{src: '/images/05-08/IMG_20250508_151805.jpg', alt: ''},{src: '/images/05-08/IMG_20250508_174222.jpg', alt: 'Eingang in das Bowser Schloss'},{src: '/images/05-08/IMG_20250508_174249.jpg', alt: ''},{src: '/images/05-08/IMG_20250508_174327.jpg', alt: ''},{src: '/images/05-08/IMG_20250508_184341.jpg', alt: ''},{src: '/images/05-08/IMG_20250508_190028.jpg', alt: 'Nintendo World'},{src: '/images/05-08/IMG_20250508_202428.jpg', alt: ''},{src: '/images/05-08/PANO_20250508_140920.jpg', alt: ''}]
+images: [{src: '/images/05-08/IMG_20250508_090402.jpg', alt: 'Jurassic Park Safari Jeep'},{src: '/images/05-08/IMG_20250508_094344.jpg', alt: 'Minions zum Verspeisen 🤗'},{src: '/images/05-08/IMG_20250508_102915.jpg', alt: 'Schokoladen Churro mit Tiramisu Creme 🤤🤤🤤'},{src: '/images/05-08/IMG_20250508_103700.jpg', alt: 'Cars V8 Kaffee?'},{src: '/images/05-08/IMG_20250508_104205.jpg', alt: 'Hogwarts'},{src: '/images/05-08/IMG_20250508_104347.jpg', alt: ''},{src: '/images/05-08/IMG_20250508_104812.jpg', alt: ''},{src: '/images/05-08/IMG_20250508_105805.jpg', alt: 'Hogwarts Castle - auf der Bahn da drin wurde uns richtig übel (Motion Sickness 🤢)'},{src: '/images/05-08/IMG_20250508_130114.jpg', alt: 'Waterworld Show'},{src: '/images/05-08/IMG_20250508_151805.jpg', alt: ''},{src: '/images/05-08/IMG_20250508_174222.jpg', alt: 'Eingang in das Bowser Schloss'},{src: '/images/05-08/IMG_20250508_174249.jpg', alt: ''},{src: '/images/05-08/IMG_20250508_174327.jpg', alt: ''},{src: '/images/05-08/IMG_20250508_184341.jpg', alt: ''},{src: '/images/05-08/IMG_20250508_190028.jpg', alt: 'Nintendo World'},{src: '/images/05-08/IMG_20250508_202428.jpg', alt: ''},{src: '/images/05-08/PANO_20250508_140920.jpg', alt: ''},{src: '/images/05-08/PANO_20250508_185937.jpg', alt: ''},{src: '/images/05-08/IMG_20250508_104237.jpg', alt: ''},{src: '/images/05-08/IMG_20250508_121520.jpg', alt: ''},{src: '/images/05-08/IMG_20250508_190716.jpg', alt: ''},{src: '/images/05-08/PANO_20250508_103016.jpg', alt: ''},{src: '/images/05-08/PANO_20250508_184338.jpg', alt: ''}]
 ---
 :::

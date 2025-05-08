@@ -24,17 +24,17 @@
       </div>
 
       <button
-          class="absolute left-2 top-1/2 transform -translate-y-1/2 px-4 py-2 bg-white bg-opacity-25 hover:bg-opacity-50 p-2 rounded-full text-white"
+          class="cursor-pointer absolute left-2 top-1/2 transform -translate-y-1/2 px-4 py-2 bg-white dark:bg-gray-800 bg-opacity-25 hover:bg-opacity-50 p-2 rounded-full text-black dark:text-gray-100"
           @click.stop="prevImage">
         &lt;
       </button>
       <button
-          class="absolute right-4 top-1/2 transform -translate-y-1/2 px-4 py-2 bg-white bg-opacity-25 hover:bg-opacity-50 p-2 rounded-full text-white"
+          class="cursor-pointer absolute right-4 top-1/2 transform -translate-y-1/2 px-4 py-2 bg-white dark:bg-gray-800 bg-opacity-25 hover:bg-opacity-50 p-2 rounded-full text-black dark:text-gray-100"
           @click.stop="nextImage">
         &gt;
       </button>
       <button
-          class="absolute top-4 right-4 bg-primary hover:bg-primary-content text-white rounded-full w-8 h-8 flex items-center justify-center"
+          class="cursor-pointer absolute top-4 right-4 bg-primary hover:bg-primary-content text-white dark:text-gray-100 rounded-full w-8 h-8 flex items-center justify-center"
           @click.stop="closeLightbox">
         ✕
       </button>
