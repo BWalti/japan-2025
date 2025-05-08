@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: Tokio 5. Mai
+  title: 5. Mai, Tsuki Outer Market, TeamLab Planet, Shibuya Crossing
 layout: full-width
 date: 2025-05-05
 published: true

@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: Osaka 7. Mai
+  title: 7. Mai, Transfer nach Osaka, Osaka Castle
 layout: full-width
 date: 2025-05-07
 published: true

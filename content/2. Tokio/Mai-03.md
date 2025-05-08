@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: Tokio 3. Mai
+  title: 3. Mai, Ankunft und Kaiserlicher Palast
 layout: full-width
 date: 2025-05-03
 published: true

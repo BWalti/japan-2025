@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: Tokio 6. Mai
+  title: 6. Mai, Ashikaga
 layout: full-width
 date: 2025-05-06
 published: true

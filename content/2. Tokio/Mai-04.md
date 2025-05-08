@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: Tokio 4. Mai
+  title: 4. Mai, Asakusa, Ueno Park und Yodobashi
 layout: full-width
 date: 2025-05-04
 published: true
