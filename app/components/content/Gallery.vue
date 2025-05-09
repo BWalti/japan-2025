@@ -11,7 +11,7 @@
             class="max-w-full md:max-w-3xl mx-auto h-auto object-cover cursor-pointer"
             @click="openLightbox(image)"/>
 
-        <span class="text-center max-w-full mx-2 wrap-break-word">{{ image.alt }}</span>
+        <span class="text-center max-w-full md:max-w-3xl mx-2 wrap-break-word">{{ image.alt }}</span>
       </div>
     </div>
 
