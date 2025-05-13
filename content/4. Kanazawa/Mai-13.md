@@ -47,7 +47,7 @@ Liste ein oder, eben wie in diesem Falle, sitzt auf Stühlen in einer Art Wartes
 super zurückhaltend, nicht drängelnd, ruhig und gelassen - auch wenn "Plätze" vorhanden sind, steht niemand auf und
 fordert Gäste dazu auf, zusammenzurücken, sodass man Platz hätte. Nein, es wird ganz ruhig gewartet. Das gefällt mir
 ganz gut so - das heisst nämlich auch, dass ich mich nicht gehetzt fühle, wenn ich am Essen bin und 10 Leute in der
-Warteschlange stecken - ich bin dran, habe es mir "verdient" und "geniesse" das Essen in aller Ruhe.
+Warteschlange stecken - ich bin dran, habe es mir "verdient" und geniesse nun das Essen in aller Ruhe.
 
 Wie auch immer - als wir dran waren, versuchten wir zuerst die japanische Karte zu verstehen, bis zu dem Zeitpunkt,
 als ich das Handy raus geholt hatte und mit Google Translate etwas übersetzen wollte - dann wurde uns die
