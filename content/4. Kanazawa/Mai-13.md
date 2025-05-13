@@ -58,7 +58,7 @@ am Werken ist. Im Prinzip war das eine quadratische etwa 2x2m grosse Küche mit 
 Zubereitungsfläche und sonst ein paar "Arbeitsflächen" in der Mitte, aussenrum ebenfalls hier und dort etwas (vor allem
 Kühlschrank und weitere Zutaten) - an 2 Seiten der Küche in "L-Form" eine Sitz-Bar, an welcher die Kundschaft sass und
 das Essen bestellt / genossen hat. Somit hatten alle freie Sicht in die Küche und konnten mit Koch / dem weiteren 
-Personal (2 weitere Damen) beim Arbeiten zuschauen und natürlich auch mit ihnen sprechen. Irgendwie familiär!
+Personal (2 Damen) beim Arbeiten zuschauen und natürlich auch mit ihnen sprechen. Irgendwie familiär!
 
 Das Essen war wiederum super lecker! Zum Abschied meinte ich somit zum Koch "Kore wa totemo oishikatta desu", was so
 viel bedeutet wie: "Dies war sehr lecker!" Und wie so oft reagierten sie auf etwas japanisch von einem Touristen super
