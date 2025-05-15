@@ -6,7 +6,7 @@ date: 2025-05-15
 published: true
 ---
 
-:ParallaxHero{src="/images/05-15/" title="Tag 13: Fuji" }
+:ParallaxHero{src="/images/05-15/PANO_20250515_173127.jpg" title="Tag 13: Fuji" }
 
 ::Prose
 # 15. Mai 2025
@@ -23,7 +23,6 @@ denselben Betrag hatten wir am Abend zuvor wunderbar gegessen), sind dann mit de
 organisiert für den Limited Express, sind zum Bahnsteig, und konnten auch direkt einsteigen uns hinsetzen und dann die
 Einstündige Fahrt geniessen.
 
-
 ::
 
 :::Gallery
@@ -33,6 +32,8 @@ images: [{src: '/images/05-15/IMG_20250515_085840.jpg', alt: 'Frühstück im Hot
 :::
 
 ::Prose
+
+## Auto mieten
 
 In Kofu angekommen ging es ab zur Auto-Vermietung, musste da x Dokumente unterschreiben und ausfüllen, Pass kopieren,
 etc. aber wir bekamen das Auto (ein paar feine Kratzer im Lack, ansonsten makellos). Erst alles für mich passend
