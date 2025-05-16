@@ -6,7 +6,7 @@ date: 2025-05-15
 published: true
 ---
 
-:ParallaxHero{src="/images/05-15/PANO_20250515_173127.jpg" title="Tag 13: Fuji" }
+:ParallaxHero{src="/images/05-15/PANO_20250515_173127.jpg" title="Tag 13: Raum Fuji Teil 1" }
 
 ::Prose
 # 15. Mai 2025
